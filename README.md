@@ -1,6 +1,6 @@
 # gemini_chat_bot
 
-A new Flutter project.
+a simple AI bot using gimini API key.
 
 ## Getting Started
 
